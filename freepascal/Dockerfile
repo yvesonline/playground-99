@@ -14,4 +14,4 @@ ADD 99.pas /
 RUN fpc 99.pas
 
 # Run code
-CMD ["fpc", "99.pas"]
+CMD ["./99"]
