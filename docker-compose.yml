@@ -2,3 +2,5 @@ version: "2"
 services:
   freepascal:
     build: freepascal
+  lisp:
+    build: lisp
