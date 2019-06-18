@@ -6,3 +6,5 @@ services:
     build: lisp
   golang:
     build: golang
+  dartlang:
+    build: dartlang
