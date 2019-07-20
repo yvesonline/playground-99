@@ -8,3 +8,5 @@ services:
     build: golang
   dartlang:
     build: dartlang
+  julia:
+    build: julia
