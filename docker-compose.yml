@@ -14,3 +14,5 @@ services:
     build: php
   python:
     build: python
+  perl:
+    build: perl
