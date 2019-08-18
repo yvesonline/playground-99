@@ -12,3 +12,5 @@ services:
     build: julia
   php:
     build: php
+  python:
+    build: python
