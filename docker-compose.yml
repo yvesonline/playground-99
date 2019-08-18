@@ -10,3 +10,5 @@ services:
     build: dartlang
   julia:
     build: julia
+  php:
+    build: php
