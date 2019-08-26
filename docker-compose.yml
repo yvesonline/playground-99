@@ -16,3 +16,5 @@ services:
     build: python
   perl:
     build: perl
+  rust:
+    build: rust
