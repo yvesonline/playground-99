@@ -20,3 +20,5 @@ services:
     build: rust
   crystallang:
     build: crystallang
+  kotlinlang:
+    build: kotlinlang
