@@ -18,3 +18,5 @@ services:
     build: perl
   rust:
     build: rust
+  crystallang:
+    build: crystallang
