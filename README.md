@@ -21,7 +21,7 @@ $ docker-compose up freepascal  # e.g. like this for Free Pascal
 
 If you want to play around with the programming language yourself you can start and keep the container alive like this:
 ```lang=bash
-$ docker run -it playground99_<programming_language> /bin/bash
-$ docker run -it playground99_freepascal /bin/bash  # e.g. like this for Free Pascal
+$ docker run -it playground-99_<programming_language> /bin/bash
+$ docker run -it playground-99_freepascal /bin/bash  # e.g. like this for Free Pascal
 root@4c90a50c6e9f:/# fpc 99.pas  # then like this
 ```

@@ -22,3 +22,5 @@ services:
     build: crystallang
   kotlinlang:
     build: kotlinlang
+  forth:
+    build: forth
