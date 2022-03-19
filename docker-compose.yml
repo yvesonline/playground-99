@@ -24,3 +24,5 @@ services:
     build: kotlinlang
   forth:
     build: forth
+  elixir:
+    build: elixir
