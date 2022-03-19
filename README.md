@@ -25,3 +25,9 @@ $ docker run -it playground-99_<programming_language> /bin/bash
 $ docker run -it playground-99_freepascal /bin/bash  # e.g. like this for Free Pascal
 root@4c90a50c6e9f:/# fpc 99.pas  # then like this
 ```
+
+If you changed the code and you want to rebuild the image use this:
+```lang=bash
+$ docker-compose build --no-cache <programming_language>
+$ docker-compose build --no-cache freepascal  # e.g. like this for Free Pascal
+```
