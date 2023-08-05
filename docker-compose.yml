@@ -26,3 +26,5 @@ services:
     build: forth
   elixir:
     build: elixir
+  nimlang:
+    build: nimlang
