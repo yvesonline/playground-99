@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:23.04
 
 # Install Free Pascal
 RUN apt-get update && \
